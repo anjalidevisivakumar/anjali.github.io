@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://anjali.github.io/files/resume.pdf)
+[Curriculum Vitae (CV)](https://anjalidevisivakumar.github.io/anjali.github.io/files/resume.pdf)
 
 I'm an ECE PhD candidate working under the guidance of Prof. Xudong (Sherman) Fan, and Prof. Zhaohui Zhong at the University of Michigan. 

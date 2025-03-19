@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo A. Lobos"
+title                    : "Anjali Devi Sivakumar"
 title_separator          : "-"
-name                     : &name "Rodrigo A. Lobos"
+name                     : &name "Anjali Devi Sivakumar"
 description              : &description "personal description"
 url                      : https://anjalidevisivakumar.github.io/anjali.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Anjali Devi Sivakumar"
   avatar           : "Anjali.JPG"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>anjalids@umich.edu </b>"
+  bio              : "ECE PhD Candidate at University of Michigan <b>anjalids@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=9QutR7MAAAAJ&hl=en"
   email            : #"anjalids@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
